@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css?family=Permanent+Marker|Raleway');
+
+
+body{
+  width: 100%;
+  max-width: 1500px;
+  margin-left: auto;
+  margin-right: auto;
+}
+header{
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: black;
+  color: white;
+  position: fixed;
+  height: 100px;
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+  top: 0;
+}
+nav {
+  text-decoration: none;
+  width: 950px;
+  height: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: black;
+}
+nav ul li{
+  list-style-type: none;
+  display: inline;
+  margin: 60px;
+  font-size: 20px;
+}
+nav ul li a{
+  text-decoration: none;
+  color: white;
+}
+main{
+  width: 900px;
+  height: auto;
+  background-color: ;
+  margin-left: auto;
+  margin-right: auto;
+}
+main{
+  margin-top: 150px;
+  height: 800px;
+  text-align: center;
+}
+div{
+  height: auto;
+  width: auto;
+  border-style: solid;
+  float: left;
+}
+footer{
+  background-color: black;
+  color: white;
+  text-align: center;
+  clear: both;
+  position: relative;
+  z-index: 10;
+  height: 3em;
+  margin-top: -3em;
+}
+#Forside{
+  width: 420px;
+  height: 400px;
+  margin-left: auto;
+  margin-right: auto;
+}
+#artikkel{
+  width: 420px;
+  height: 400px;
+  margin-left: auto;
+  margin-right: auto;
+}
+h3{
+  text-align: center;
+}
+#denneisden{
+  color: white;
+  text-decoration: none;
+}
+#box3{
+  margin-top: 20px;
+  width: 845px;
+}
+
+#box1{
+  width: 420px;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
+#box2{
+  width: 420px;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#box4{
+  width: 845px;
+}
+
+#table{
+  width: 100%;
+  border:"5";
+  cellspacing:10;
+  cellpadding:10;
+  align:"center";
+}
